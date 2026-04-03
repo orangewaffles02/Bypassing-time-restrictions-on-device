@@ -1,5 +1,5 @@
 # Bypassing-time-restrictions-on-device
-Extremely simple guide on bypassing set time limit (e.g. forced shutdown at 11 p.m.) by changing the device's native time.
+Extremely simple guide on bypassing downtime limit (e.g. forced shutdown at 11 p.m.) by changing the device's native time.
 
 <h2>Extremely simple followable guide</h2>
 <p>Say your device auto shutdowns after 10:30pm due to some restrictions set by your administrator. Don't like that? Here is a simple solution.</p>
